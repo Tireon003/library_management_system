@@ -1,0 +1,6 @@
+class InvalidCommandException(Exception):
+    ...
+
+
+class ValidationErrorException(Exception):
+    ...
